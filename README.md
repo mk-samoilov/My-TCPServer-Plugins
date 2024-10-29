@@ -6,3 +6,4 @@
 ### This plugin allows you to transport zip archives with data to and from the server
 > [!WARNING]
 > By default, you can transfer data in a volume of no more than 1gb (1024mb), but you can increase this volume, since the server and client are open source.
+> (You can change the value of the server's incoming data in the "config.py" file and of client in "client.py" file)
